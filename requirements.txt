@@ -1,0 +1,9 @@
+beautifulsoup4
+langchain
+langchain_google_genai
+pandas
+python-dotenv
+Requests
+selenium
+tqdm
+webdriver_manager
